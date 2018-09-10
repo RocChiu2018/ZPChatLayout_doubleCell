@@ -1,0 +1,2 @@
+# ZPChatLayout_doubleCell
+介绍在storyboard文件中利用两个cell来创建聊天布局以及如何设置APP的Icon和启动页。
